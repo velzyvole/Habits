@@ -1,0 +1,10 @@
+PROFILE_DOES_NOT_EXISTS='Профиль не существует'
+TEXT_UNAUTHORIZED = 'Your login session has expired. You need to login to your account'
+TEXT_ERROR_UNAUTHORIZED = 'Authorization error, to continue you need to Log in to your personal account'  # noqa
+ENTER_REFRESH_TOKEN = 'Enter refresh token'
+TEXT_LINK_RESET_PASSWORD = 'We have sent you a link to reset your password'
+SUCCESS_TOKEN_AND_UID = 'Correct data for password reset'
+ERROR_TOKEN_AND_UID = 'Password reset error. You need to request the restoration of access again'
+USER_NOT_EXISTS = 'We could not find the specified user'
+PASSWORD_RESET_SUCCESS = 'Password change completed successfully'
+TEXT_LINK_RESET_INVALID = 'Password reset link is outdated or incorrect'
